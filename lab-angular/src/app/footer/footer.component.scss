@@ -1,0 +1,14 @@
+footer {
+    background-color: #181818d7
+}
+
+.btn-icon-footer {
+    color: white;
+    background-color: transparent;
+    transition: color 0.3s;
+}
+
+.btn-icon-footer:hover {
+    color: #dcdcdc;
+    transform: scale(1.2);
+}
